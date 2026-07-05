@@ -64,6 +64,7 @@ pytest
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Amrutha2804/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -85,6 +86,7 @@ pytest
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -106,6 +108,7 @@ pytest
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Amrutha2804/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
