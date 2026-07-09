@@ -122,6 +122,7 @@ pytest
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Amrutha2804/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Amrutha2804/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -141,6 +142,7 @@ pytest
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Amrutha2804/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Amrutha2804/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
