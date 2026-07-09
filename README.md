@@ -64,6 +64,7 @@ pytest
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [1288-remove-covered-intervals](https://github.com/Amrutha2804/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -103,6 +104,7 @@ pytest
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amrutha2804/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -139,5 +141,6 @@ pytest
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
