@@ -65,6 +65,7 @@ pytest
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [1288-remove-covered-intervals](https://github.com/Amrutha2804/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -73,6 +74,7 @@ pytest
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amrutha2804/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -90,6 +92,7 @@ pytest
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -101,11 +104,13 @@ pytest
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amrutha2804/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amrutha2804/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amrutha2804/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
