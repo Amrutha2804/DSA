@@ -121,6 +121,7 @@ pytest
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Amrutha2804/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -139,6 +140,7 @@ pytest
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Amrutha2804/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -157,4 +159,8 @@ pytest
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amrutha2804/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
