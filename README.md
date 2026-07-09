@@ -100,6 +100,7 @@ pytest
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Amrutha2804/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Amrutha2804/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -143,4 +144,12 @@ pytest
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Amrutha2804/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Amrutha2804/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
