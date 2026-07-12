@@ -68,6 +68,7 @@ pytest
 | [0130-surrounded-regions](https://github.com/Amrutha2804/DSA/tree/master/0130-surrounded-regions) |
 | [1288-remove-covered-intervals](https://github.com/Amrutha2804/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amrutha2804/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Amrutha2804/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Amrutha2804/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Amrutha2804/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -144,6 +145,7 @@ pytest
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Amrutha2804/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Amrutha2804/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Amrutha2804/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -165,6 +167,7 @@ pytest
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amrutha2804/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Amrutha2804/DSA/tree/master/0133-clone-graph) |
+| [1331-rank-transform-of-an-array](https://github.com/Amrutha2804/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amrutha2804/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
