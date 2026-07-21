@@ -170,6 +170,7 @@ pytest
 | [0131-palindrome-partitioning](https://github.com/Amrutha2804/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Amrutha2804/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Amrutha2804/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amrutha2804/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Amrutha2804/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -214,6 +215,7 @@ pytest
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Amrutha2804/DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amrutha2804/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
